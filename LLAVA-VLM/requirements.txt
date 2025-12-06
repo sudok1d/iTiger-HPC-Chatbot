@@ -1,0 +1,15 @@
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.37.2
+sentencepiece==0.1.99
+tokenizers==0.15.1
+accelerate==0.21.0
+pillow==9.0
+opencv-python
+einops==0.6.1
+numpy==1.23.0
+requests
+flask
+flask-cors
+setuptools
+wheel
