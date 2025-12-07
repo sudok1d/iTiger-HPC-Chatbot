@@ -1,0 +1,8 @@
+torch>=2.3.0
+torchvision
+transformers @ git+https://github.com/huggingface/transformers.git@main
+flask-cors
+accelerate>=0.30.0
+timm>=0.9.16
+pillow
+flask
